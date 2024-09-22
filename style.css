@@ -14,7 +14,7 @@ body {
 
 .message {
   position: absolute;
-  top: 10%;
+  top: 8%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1em;
@@ -25,7 +25,7 @@ body {
 
 .message2 {
   position: absolute;
-  top: 14%;
+  top: 12%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1em;
@@ -37,7 +37,7 @@ body {
 
 .message3 {
   position: absolute;
-  top: 18%;
+  top: 15%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1em;
@@ -48,7 +48,7 @@ body {
 
 .message4 {
   position: absolute;
-  top: 22%;
+  top: 19%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1em;
