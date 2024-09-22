@@ -7,14 +7,14 @@ body {
   min-height: 100vh;
   background-color: #0c1016;
   overflow: hidden;
-  margin: 0; /* Elimina el margen por defecto */
+  margin: 0; /* Elimina el margen por defecto */ 
   background-image: url('fondo1.gif');
 }
 
 
 .message {
   position: absolute;
-  top: 17%;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1em;
@@ -25,7 +25,7 @@ body {
 
 .message2 {
   position: absolute;
-  top: 20%;
+  top: 14%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1em;
@@ -37,7 +37,7 @@ body {
 
 .message3 {
   position: absolute;
-  top: 23%;
+  top: 18%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1em;
@@ -48,7 +48,7 @@ body {
 
 .message4 {
   position: absolute;
-  top: 26%;
+  top: 22%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1em;
