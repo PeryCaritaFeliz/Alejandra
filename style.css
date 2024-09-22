@@ -17,7 +17,7 @@ body {
   top: 17%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 4em;
+  font-size: 1em;
   color: white;
   opacity: 15;
   animation: fadeIn 2s ease-in-out infinite;
@@ -28,7 +28,7 @@ body {
   top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 4em;
+  font-size: 1em;
   color: white;
   opacity: 15;
   animation: fadeIn 2s ease-in-out infinite;
@@ -40,7 +40,7 @@ body {
   top: 23%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 4em;
+  font-size: 1em;
   color: white;
   opacity: 15;
   animation: fadeIn 2s ease-in-out infinite;
@@ -51,7 +51,27 @@ body {
   top: 26%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 4em;
+  font-size: 1em;
+  color: white;
+  opacity: 15;
+  animation: fadeIn 2s ease-in-out infinite;
+}
+.message5 {
+  position: absolute;
+  top: 31%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1em;
+  color: white;
+  opacity: 15;
+  animation: fadeIn 2s ease-in-out infinite;
+}
+.message6 {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1em;
   color: white;
   opacity: 15;
   animation: fadeIn 2s ease-in-out infinite;
